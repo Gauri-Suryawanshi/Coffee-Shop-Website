@@ -2,6 +2,7 @@
 
 This website is made for coffee shop called one true cup
 
+![Image](logo.jpeg)
 
 ## Demo
 
@@ -12,6 +13,7 @@ https://gauri-suryawanshi.github.io/Coffee-Shop-Website/
 
 **Tech:** html
 
+## Screenshots
 
 
 ## Used By
