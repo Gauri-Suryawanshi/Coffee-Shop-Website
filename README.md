@@ -1,4 +1,4 @@
-# One true cup website
+# One true cup coffee shop website
 
 This website is made for coffee shop called one true cup
 
